@@ -5,13 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hu.adam.minecraft</groupId>
-    <artifactId>Wolves_dont_like_the_rain</artifactId>
-    <version>1.0</version>
+    <artifactId>Wolves</artifactId>
+    <version>1.0-Wolves_dont_like_the_rain</version>
     <packaging>jar</packaging>
 
-    <name>Main</name>
+    <name>Wolves</name>
 
-    <description>Very first try</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

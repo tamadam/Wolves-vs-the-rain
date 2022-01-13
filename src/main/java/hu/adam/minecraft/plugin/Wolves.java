@@ -1,8 +1,8 @@
-package hu.adam.minecraft.first;
+package hu.adam.minecraft.plugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Main extends JavaPlugin {
+public final class Wolves extends JavaPlugin {
 
     @Override
     public void onEnable() {
@@ -16,7 +16,4 @@ public final class Main extends JavaPlugin {
     public void onDisable() {
         // Plugin shutdown logic
     }
-
-
-
 }

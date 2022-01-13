@@ -1,8 +1,7 @@
-name: First
+name: Wolves
 version: '${project.version}'
-main: hu.adam.minecraft.first.First
+main: hu.adam.minecraft.plugin.Wolves
 api-version: 1.18
 prefix: AdamPlugin
 load: STARTUP
 authors: [ Adam_Tamas ]
-description: Very first try

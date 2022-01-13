@@ -1,4 +1,4 @@
-package hu.adam.minecraft.first;
+package hu.adam.minecraft.plugin;
 
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
