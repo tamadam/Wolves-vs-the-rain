@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>First</name>
+    <name>Main</name>
 
     <description>Very first try</description>
     <properties>

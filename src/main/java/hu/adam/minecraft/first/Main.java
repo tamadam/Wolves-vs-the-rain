@@ -2,7 +2,7 @@ package hu.adam.minecraft.first;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class First extends JavaPlugin {
+public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
